@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Tutorial Belajar ReactJS Lengkap",
+    "tags": ["react", "frontend", "web development"],
+    "author": "Mabuchi",
+    "date": "2022-10-24",
+    "isNew": false
+  },
+  {
+    "title": "Meningkatkan Performa Di ReactJS Lengkap",
+    "tags": ["react", "frontend", "web development"],
+    "author": "Mabuchi",
+    "date": "2022-11-2",
+    "isNew": false
+  },
+  {
+    "title": "Cara Menggunakan ChakraUI Di ReactJS",
+    "tags": ["react", "frontend", "library", "web development"],
+    "author": "Mabuchi",
+    "date": "2023-1-19",
+    "isNew": true
+  }
+]
